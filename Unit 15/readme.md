@@ -4,4 +4,4 @@
 
 命令行运行 pip install -U matplotlib
 
-2.
+2.运行程序
